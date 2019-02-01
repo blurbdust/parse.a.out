@@ -1,0 +1,9 @@
+</$objtype/mkfile
+
+TARG = trackmouse
+
+OFILES = trackmouse.$O
+
+BIN = $home/bin/$objtype
+
+</sys/src/cmd/mkone

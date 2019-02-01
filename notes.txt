@@ -1,0 +1,13 @@
+start	0x00
+end		0x7ed0
+obstext	0x491f
+debug	0x3fd5
+
+
+arch:		amd64
+size of text:	16239	0x00003f6f
+size of data:	2760	0x00000ac8
+size of bss:	1032	0x00000408
+size of syms:	10346	0x0000286a
+entry point:	2097341	0x002000bd
+size of pcsz:	3080	0x00000c08

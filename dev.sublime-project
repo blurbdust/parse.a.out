@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\blurbdust\\AppData\\Roaming\\Binary Ninja\\plugins\\binaryninja_plan9_aout"
+		},
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+  	[{
+    	"name": "Run with args",
+    	"cmd": ["C:\\Users\\blurbdust\\AppData\\Local\\Programs\\Python\\Python36\\python.exe", "$file", "D:\\Users\\blurbdust\\Documents\\parse.a.out\\trackmouse\\6.out"]
+  	}]
+}
